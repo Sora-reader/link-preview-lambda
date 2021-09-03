@@ -1,0 +1,7 @@
+main
+resize
+*.zip
+nohup.out
+.vim
+.vscode
+*.png
