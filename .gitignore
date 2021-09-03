@@ -1,7 +1,8 @@
-main
-resize
+linkPreviewLambda
 *.zip
-nohup.out
+*.png
+
 .vim
 .vscode
-*.png
+
+nohup.out

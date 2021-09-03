@@ -1,4 +1,4 @@
-module dhvcc/resize
+module soraReader/linkPreviewLambda
 
 go 1.16
 
